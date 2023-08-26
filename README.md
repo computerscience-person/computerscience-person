@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @OliverLadoresWVSU
-- 📚 I’m interested in programming.
-- 🌱 I’m currently learning in college.
-- 👨‍💻 I’m looking to collaborate on ... (WIP)
-- 📫 How to reach me ... (WIP)
+### Languages:
+🟩🟩🟩⬛⬛: Python 🐍\
+🟩🟩⬛⬛⬛: C++ \
+🟩🟩⬛⬛⬛: Java ☕\
+🟩🟩⬛⬛⬛: Rust 🦀\
+🟩⬛⬛⬛⬛: C \
+🟩⬛⬛⬛⬛: Javascript/Typescript \
 
 <!---
 OliverLadoresWVSU/OliverLadoresWVSU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
