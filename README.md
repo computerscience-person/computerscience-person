@@ -1,3 +1,5 @@
+Hi, I'm Ollie 👋. I'm a student at WVSU. I'm currently learning about computer science and software development, and hope to work on libraries/tools for others.
+
 ### Languages:
 🟩🟩🟩⬛⬛: Python 🐍\
 🟩🟩⬛⬛⬛: C++ \
