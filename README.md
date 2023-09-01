@@ -6,7 +6,7 @@ Hi, I'm Ollie 👋. I'm a student at WVSU. I'm currently learning about computer
 🟩🟩⬛⬛⬛: Java ☕\
 🟩🟩⬛⬛⬛: Rust 🦀\
 🟩⬛⬛⬛⬛: C \
-🟩⬛⬛⬛⬛: Javascript/Typescript \
+🟩⬛⬛⬛⬛: Javascript/Typescript
 
 <!---
 OliverLadoresWVSU/OliverLadoresWVSU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
