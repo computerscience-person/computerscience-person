@@ -15,6 +15,7 @@ Hi, I'm Ollie 👋. I'm a student at WVSU. I'm currently learning about computer
 ![Powershell](https://img.shields.io/badge/Powershell-black?&style=for-the-badge&logo=powershell&logoColor=lightgray)
 ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 ![NixOS](https://img.shields.io/badge/NixOS-gray?style=for-the-badge&logo=nixos&logoColor=skyblue)
+![NixOS](https://img.shields.io/badge/Typst-00928e?style=for-the-badge&logo=typst&logoColor=black)
 
 <!---
 OliverLadoresWVSU/OliverLadoresWVSU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
